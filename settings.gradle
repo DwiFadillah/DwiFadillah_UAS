@@ -1,0 +1,2 @@
+rootProject.name = "DwiFadillah_UAS"
+include ':app'
